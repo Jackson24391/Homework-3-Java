@@ -8,6 +8,7 @@ Why can this be useful, sometimes it is hard to make a password and you don't wa
 ##Installation
 
 I submitted URL's of the deployed application
+Deployed application: http://127.0.0.1:5555/02-Challenge/Develop/index.html
 
 ##Usage
 
